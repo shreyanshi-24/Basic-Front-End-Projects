@@ -9,6 +9,6 @@ Welcome to my first collection of front-end projects! These projects represent m
   * Survey Form
 
 ## Technologies used:
-  * HTML   * CSS
+  * HTML    * CSS
 
 These projects mark the beginning of my journey as a front-end developer. I'm eager to continue learning, improving, and building more complex projects in the future. Feel free to explore each project and contribute improvement if you'd like!
